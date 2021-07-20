@@ -1,0 +1,36 @@
+body {
+	background-image: url("imagens/fundo.png");
+	font-family: "Arial", "Helvetica", sans-serif;
+	width: 900px;
+}
+
+#menu {
+	font-weight: bold;
+	background-color: #D3D3BC;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	padding-left: 10px;  
+}
+
+#menu a {
+	text-decoration: none;
+}
+
+.texto {
+	background-color: #FCFBEC;
+	padding: 10px 2px 2px 10px;
+}
+
+.texto h1 {
+	font-size: 16px;
+	color: #918F7C;
+}
+
+.rodape {
+	background-color: #FCFBEC;
+	padding: 10px 2px 2px 10px;
+	text-align: center;
+	font-weight: bold;
+}
+
+#
